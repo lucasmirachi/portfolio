@@ -77,7 +77,7 @@ Este é um repositório com meu portfólio, que contempla os principais projetos
 
 ## Projetos Veículos Autônomos
 
-Como parte do curso de Nanodegree de Veículos Autônomos da Udacity, adquiri conhecimentos e desenvolvi projetos nas seguintes áreas:
+Como parte do [curso de Nanodegree de Veículos Autônomos da Udacity](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd0013), adquiri conhecimentos e desenvolvi projetos nas seguintes áreas:
 
 - Perception Engineering: Utilizando técnicas de Visão Computacional com OpenCV, criei algoritmos que vão desde a detecção simples de faixas de tráfego até desafios mais complexos, como detecção de objetos em movimento e percepção do ambiente usando Lidar.
 
