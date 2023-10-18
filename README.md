@@ -149,7 +149,8 @@ Como parte do curso de Nanodegree de Veículos Autônomos da Udacity, adquiri co
 </p>
 * **Automatizando o Instagram com Python (Medium):**
 * **Image Classification para classificar placas de trânsito com Deep Learning:** https://bit.ly/30I1FAx
-* **Detecção de faixas de trânsito com OpenCV:** https://github.com/LucasMirachi/Lane_Detection
+* **Detecção de faixas de trânsito com OpenCV:** [link](https://github.com/LucasMirachi/Lane_Detection)
+
 <p align="center">
-<img src="https://raw.githubusercontent.com/LucasMirachi/Lane_Detection/master/Images/detected_avg_lines.gif)" width="75%" />
+<img src="https://raw.githubusercontent.com/LucasMirachi/Lane_Detection/master/Images/detected_avg_lines.gif" width="75%" />
 </p>
