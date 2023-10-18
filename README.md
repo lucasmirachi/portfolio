@@ -12,38 +12,51 @@ Este é um repositório com meu portfólio, que contempla os principais projetos
 * [LinkedIn](https://www.linkedin.com/in/lucasmirachi)
 
 ## Projetos Visão Computacional
-### Controle de Volume por Gestos [Link para repositório]()
+#### Controle de Volume por Gestos [Link para repositório]()
 * **Objetivo**:Desenvolvi um projeto para controlar o volume de um sistema Linux usando gestos de mão. Utilizei a câmera para capturar os gestos, e com técnicas de visão computacional, mapeei os gestos para ajustar o volume do áudio em tempo real. Oferecendo uma maneira intuitiva e sem dispositivos físicos de controlar o volume.
-* **Tecnologias**: Python 3 e [Mediapipe](https://developers.google.com/mediapipe)
+* **Tecnologias**: Python3 e [Mediapipe](https://developers.google.com/mediapipe)
 ![]()
 
 
-### Face Mesh
-* **Objetivo**:
-* **Tecnologias**:
+#### Face Mesh
+* **Objetivo**: Neste projeto, criei um sistema de face mesh que mapeia várias áreas da face do usuário em tempo real usando visão computacional. Utilizei uma câmera para capturar a imagem facial e identificar características como olhos, nariz e boca, possibilitando aplicações como reconhecimento facial e análise de expressões.
+* **Tecnologias**: Python3 e [Mediapipe](https://developers.google.com/mediapipe)
+
+#### Hand Tracking [Link para o repositório](https://github.com/lucasmirachi/hand-tracking)
+* **Objetivo**: Criei um projeto em Python3 usando a biblioteca Mediapipe para rastrear e reconhecer gestos de mãos em tempo real. O sistema captura a entrada da câmera e mapeia pontos-chave nas mãos, permitindo interações baseadas em gestos com o computador.
+* **Tecnologias**: Python3 e [Mediapipe](https://developers.google.com/mediapipe)
+![](https://github.com/lucasmirachi/hand-tracking/raw/main/images/handtracking.gif)
+
+#### Finger Counter [Link para o repositório](https://github.com/lucasmirachi/finger-counter)
+* **Objetivo**: Criei um projeto em Python3 usando a biblioteca Mediapipe para rastrear e reconhecer gestos de mãos em tempo real. O sistema captura a entrada da câmera e mapeia pontos-chave nas mãos, permitindo interações baseadas em gestos com o computador.
+* **Tecnologias**: Python3 e [Mediapipe](https://developers.google.com/mediapipe)
+![](https://github.com/lucasmirachi/finger-counter/raw/main/finger_counter.gif)
+
+
+#### Face Detector [Link para o repositório](https://github.com/lucasmirachi/Face-Detection)
+* **Objetivo**: 
+* **Tecnologias**: Python3 e [Mediapipe](https://developers.google.com/mediapipe)
+
+#### Detector de Cores
+* **Objetivo**: Neste projeto, criei um sistema que detecta cores em tempo real usando processamento de imagem e visão computacional. Através da câmera, identificamos cores específicas, permitindo aplicações como rastreamento de objetos coloridos e automação baseada em cores.
+* **Tecnologias**: Python3 e OpenCV
 * **Sneak Peek**:
 
-### Detector de Cores
-* **Objetivo**:
-* **Tecnologias**:
-* **Sneak Peek**:
+#### Ocultador de placas de veículos
+* **Objetivo**: Desenvolvi um programa em Python usando OpenCV para processar imagens de carros. O programa detecta automaticamente a placa do veículo e aplica um desfoque para garantir a privacidade das identificações.
+* **Tecnologias**: Python3 e OpenCV
+
 
 ---
 
 ## Projetos Veículos Autônomos
-![Lane Lines Detector](https://github.com/lucasmirachi/CarND-LaneLines-P1/raw/master/examples/non_blinking_lines.gif)
-
-![Advanced Lane Lines Detection](https://github.com/lucasmirachi/CarND-Advanced-Lane-Lines/blob/main/images_writeup/advanced_lane_finding.png?raw=true)
-
-![Behavioral Clonning](https://github.com/lucasmirachi/CarND-Behavioral-Cloning-P4/raw/master/writeup_imgs/after_balancing.gif)
-
-![Classificador de Placas de Trânsito](https://github.com/lucasmirachi/CarND-Traffic-Sign-Classifier/raw/main/examples/augmented.png) Link: https://github.com/lucasmirachi/CarND-Traffic-Sign-Classifier
 
 | ![Lane Lines Detector](https://github.com/lucasmirachi/CarND-LaneLines-P1/raw/master/examples/non_blinking_lines.gif) | ![Advanced Lane Lines Detection](https://github.com/lucasmirachi/CarND-Advanced-Lane-Lines/blob/main/images_writeup/advanced_lane_finding.png?raw=true) |
 | --------------------------------- | --------------------------------- |
 |![Behavioral Clonning](https://github.com/lucasmirachi/CarND-Behavioral-Cloning-P4/raw/master/writeup_imgs/after_balancing.gif)| ![Classificador de Placas de Trânsito](https://github.com/lucasmirachi/CarND-Traffic-Sign-Classifier/raw/main/examples/augmented.png) Link: https://github.com/lucasmirachi/CarND-Traffic-Sign-Classifier |
 
 
+#### Work In Progress: AWS Deep Racer
 ---
 
 ## Projetos Ciência dos Dados
