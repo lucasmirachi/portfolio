@@ -30,12 +30,12 @@ Este é um repositório com meu portfólio, que contempla os principais projetos
 #### Hand Tracking [Link para o repositório](https://github.com/lucasmirachi/hand-tracking)
 * **Objetivo**: Criei um projeto em Python3 usando a biblioteca Mediapipe para rastrear e reconhecer gestos de mãos em tempo real. O sistema captura a entrada da câmera e mapeia pontos-chave nas mãos, permitindo interações baseadas em gestos com o computador.
 * **Tecnologias**: Python3 e [Mediapipe](https://developers.google.com/mediapipe)
-![](https://github.com/lucasmirachi/hand-tracking/raw/main/images/handtracking.gif)
+![](https://github.com/lucasmirachi/hand-tracking/raw/main/images/handtracking.gif){width=50%}
 
 #### Finger Counter [Link para o repositório](https://github.com/lucasmirachi/finger-counter)
 * **Objetivo**: Criei um projeto em Python3 usando a biblioteca Mediapipe para contar os dedos detectados em tempo real. O sistema utiliza a câmera para capturar a mão e, por meio do rastreamento de pontos, determina o número de dedos levantados. Uma aplicação prática desse projeto poderia ser um auxiliar em salas de aula, onde o professor pode usar gestos para fazer contagens interativas durante atividades educacionais.
 * **Tecnologias**: Python3 e [Mediapipe](https://developers.google.com/mediapipe)
-![](https://github.com/lucasmirachi/finger-counter/raw/main/finger_counter.gif)
+![](https://github.com/lucasmirachi/finger-counter/raw/main/finger_counter.gif){width=50%}
 
 
 #### Face Detector [Link para o repositório](https://github.com/lucasmirachi/Face-Detection)
@@ -58,9 +58,9 @@ Este é um repositório com meu portfólio, que contempla os principais projetos
 
 ## Projetos Veículos Autônomos
 
-| ![Lane Lines Detector](https://github.com/lucasmirachi/CarND-LaneLines-P1/raw/master/examples/non_blinking_lines.gif) | ![Advanced Lane Lines Detection](https://github.com/lucasmirachi/CarND-Advanced-Lane-Lines/blob/main/images_writeup/advanced_lane_finding.png?raw=true) |
+| ![Lane Lines Detector](https://github.com/lucasmirachi/CarND-LaneLines-P1/raw/master/examples/non_blinking_lines.gif) | ![Advanced Lane Lines Detection](https://github.com/lucasmirachi/CarND-Advanced-Lane-Lines/blob/main/images_writeup/advanced_lane_finding.png?raw=true){width=70%} |
 | --------------------------------- | --------------------------------- |
-|![Behavioral Clonning](https://github.com/lucasmirachi/CarND-Behavioral-Cloning-P4/raw/master/writeup_imgs/after_balancing.gif)| ![Classificador de Placas de Trânsito](https://github.com/lucasmirachi/CarND-Traffic-Sign-Classifier/raw/main/examples/augmented.png) Link: https://github.com/lucasmirachi/CarND-Traffic-Sign-Classifier |
+|![Behavioral Clonning](https://github.com/lucasmirachi/CarND-Behavioral-Cloning-P4/raw/master/writeup_imgs/after_balancing.gif){width=50%}| ![Classificador de Placas de Trânsito](https://github.com/lucasmirachi/CarND-Traffic-Sign-Classifier/raw/main/examples/augmented.png) Link: https://github.com/lucasmirachi/CarND-Traffic-Sign-Classifier |
 
 
 #### Work In Progress: AWS Deep Racer
