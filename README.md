@@ -2,6 +2,8 @@
 [banner]: ./banner.png "banner"
 [ocultador]: ./imgs/ocultador.png "ocultador"
 [ocultador2]: ./imgs/ocultador2.png "ocultador2"
+[face1]: ./imgs/face1.png "face1"
+[face3]: ./imgs/face3.png "face3"
 
 ![][banner]
 <sub>*Buscando cada vez mais aprendizado em Visão Computacional | Inteligência Artifical | Automação | Ciência dos Dados</sub>
@@ -20,17 +22,21 @@ Este é um repositório com meu portfólio, que contempla os principais projetos
 #### Controle de Volume por Gestos [Link para repositório]()
 * **Objetivo**:Desenvolvi um projeto para controlar o volume de um sistema Linux usando gestos de mão. Utilizei a câmera para capturar os gestos, e com técnicas de visão computacional, mapeei os gestos para ajustar o volume do áudio em tempo real. Oferecendo uma maneira intuitiva e sem dispositivos físicos de controlar o volume.
 * **Tecnologias**: Python3 e [Mediapipe](https://developers.google.com/mediapipe)
-![]()
+<p align="center">
+<img src="https://github.com/lucasmirachi/gesture-volume-control/raw/main/images/gesturevolumecontrol.gif" width="50%" />
+</p>
 
-
-#### Face Mesh
+#### Face Mesh [Link para repositório](https://github.com/lucasmirachi/face-mesh)
 * **Objetivo**: Neste projeto, criei um sistema de face mesh que mapeia várias áreas da face do usuário em tempo real usando visão computacional. Utilizei uma câmera para capturar a imagem facial e identificar características como olhos, nariz e boca, possibilitando aplicações como reconhecimento facial e análise de expressões.
 * **Tecnologias**: Python3 e [Mediapipe](https://developers.google.com/mediapipe)
+<p align="center">
+<img src="https://github.com/lucasmirachi/face-mesh/blob/main/images/FaceMesh.gif" width="50%" />
+</p>
+
 
 #### Hand Tracking [Link para o repositório](https://github.com/lucasmirachi/hand-tracking)
 * **Objetivo**: Criei um projeto em Python3 usando a biblioteca Mediapipe para rastrear e reconhecer gestos de mãos em tempo real. O sistema captura a entrada da câmera e mapeia pontos-chave nas mãos, permitindo interações baseadas em gestos com o computador.
 * **Tecnologias**: Python3 e [Mediapipe](https://developers.google.com/mediapipe)
-![](https://github.com/lucasmirachi/hand-tracking/raw/main/images/handtracking.gif){width=50%}
 <p align="center">
 <img src="https://github.com/lucasmirachi/hand-tracking/raw/main/images/handtracking.gif" width="50%" />
 </p>
@@ -39,12 +45,18 @@ Este é um repositório com meu portfólio, que contempla os principais projetos
 #### Finger Counter [Link para o repositório](https://github.com/lucasmirachi/finger-counter)
 * **Objetivo**: Criei um projeto em Python3 usando a biblioteca Mediapipe para contar os dedos detectados em tempo real. O sistema utiliza a câmera para capturar a mão e, por meio do rastreamento de pontos, determina o número de dedos levantados. Uma aplicação prática desse projeto poderia ser um auxiliar em salas de aula, onde o professor pode usar gestos para fazer contagens interativas durante atividades educacionais.
 * **Tecnologias**: Python3 e [Mediapipe](https://developers.google.com/mediapipe)
-![](https://github.com/lucasmirachi/finger-counter/raw/main/finger_counter.gif){width=50%}
+<p align="center">
+<img src="https://github.com/lucasmirachi/finger-counter/raw/main/finger_counter.gif" width="50%" />
+</p>
 
 
 #### Face Detector [Link para o repositório](https://github.com/lucasmirachi/Face-Detection)
-* **Objetivo**: 
-* **Tecnologias**: Python3 e [Mediapipe](https://developers.google.com/mediapipe)
+* **Resumo**: Neste projeto, vou explorar a detecção facial usando Cascata de Haar. No entanto, é importante observar que este é um algoritmo de detecção facial, e não de reconhecimento facial. Ele analisará uma imagem e dirá "sim, é um rosto" ou "não, não há rosto nesta imagem", sem identificar a quem esse rosto pertence.
+* **Tecnologias**: Python3 e OpenCV (Haar Cascade Classifier)
+
+| <img src="https://github.com/lucasmirachi/Face-Detection/blob/main/images/don-corleone.png" width="50%" /> | ![][face1] |
+---
+| <img src="https://github.com/lucasmirachi/Face-Detection/raw/main/images/brazil-selection.png" width="50%" />|![][face3] |
 
 #### Detector de Cores
 * **Objetivo**: Neste projeto, criei um sistema que detecta cores em tempo real usando processamento de imagem e visão computacional. Através da câmera, identificamos cores específicas, permitindo aplicações como rastreamento de objetos coloridos e automação baseada em cores.
