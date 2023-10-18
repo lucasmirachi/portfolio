@@ -1,4 +1,5 @@
-# Portfólio Lucas Mirachi
+## Portfólio Lucas Mirachi
+![]("./banner.png")
 <sub>*Buscando cada vez mais aprendizado em Visão Computacional | Inteligência Artifical | Automação | Ciência dos Dados</sub>
 
 Este é um repositório com meu portfólio, que contempla os principais projetos que desenvolvi, além  dos que estou trabalhando atualmente.
