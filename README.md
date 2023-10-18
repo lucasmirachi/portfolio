@@ -62,7 +62,7 @@ Este é um repositório com meu portfólio, que contempla os principais projetos
 * **Resumo**: Neste projeto, criei um sistema que detecta cores em tempo real usando processamento de imagem e visão computacional. Através da câmera, identificamos cores específicas, permitindo aplicações como rastreamento de objetos coloridos e automação baseada em cores.
 * **Tecnologias**: Python3 e OpenCV.
 <p align="center">
-<img src="https://github.com/lucasmirachi/Color-Detector/blob/main/output.gif?raw=true" width="25%" />
+<img src="https://github.com/lucasmirachi/Color-Detector/blob/main/output.gif?raw=true" width="50%" />
 </p>
 
 ### **Ocultador de placas de veículos** -> [Link para o repositório](https://github.com/lucasmirachi/License-Plate-Blurring/blob/main/plate-blurring.ipynb)
@@ -88,17 +88,19 @@ Como parte do curso de Nanodegree de Veículos Autônomos da Udacity, adquiri co
 - Engenharia de Controle: Adquiri conhecimentos sobre a tecnologia usada para controlar sistemas robóticos/automotivos, com ferramentas como Controladores PID e ROS (Sistema Operacional de Robôs). 
 
 
-###**Link para os projetos**:
+### **Link para os projetos**:
 * Projeto de identificação de Faixas de Trânsito Simples: [link](https://github.com/lucasmirachi/CarND-LaneLines-P1/blob/master/writeup.md)
 
 <p align="center">
 <img src="https://github.com/lucasmirachi/CarND-LaneLines-P1/raw/master/examples/non_blinking_lines.gif" width="50%" />
 </p>
+
 * Identificação Avançada de Faixas de Trânsito e angulação da estrada:  [link](https://github.com/lucasmirachi/CarND-Advanced-Lane-Lines) 
 
 <p align="center">
 <img src="https://github.com/lucasmirachi/CarND-Advanced-Lane-Lines/blob/main/images_writeup/advanced_lane_finding.png?raw=true)" width="50%" />
 </p>
+
 * Projeto de Behavioral Cloning para simulação de um veículo autônomo em pista: [link](https://github.com/lucasmirachi/CarND-Behavioral-Cloning-P4)
 
 <p align="center">
@@ -148,4 +150,6 @@ Como parte do curso de Nanodegree de Veículos Autônomos da Udacity, adquiri co
 * **Automatizando o Instagram com Python (Medium):**
 * **Image Classification para classificar placas de trânsito com Deep Learning:** https://bit.ly/30I1FAx
 * **Detecção de faixas de trânsito com OpenCV:** https://github.com/LucasMirachi/Lane_Detection
-![](https://raw.githubusercontent.com/LucasMirachi/Lane_Detection/master/Images/detected_avg_lines.gif)
+<p align="center">
+<img src="https://raw.githubusercontent.com/LucasMirachi/Lane_Detection/master/Images/detected_avg_lines.gif)" width="75%" />
+</p>
