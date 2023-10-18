@@ -39,13 +39,18 @@ Este é um repositório com meu portfólio, que contempla os principais projetos
 
 ![Classificador de Placas de Trânsito](https://github.com/lucasmirachi/CarND-Traffic-Sign-Classifier/raw/main/examples/augmented.png) Link: https://github.com/lucasmirachi/CarND-Traffic-Sign-Classifier
 
+| ![Lane Lines Detector](https://github.com/lucasmirachi/CarND-LaneLines-P1/raw/master/examples/non_blinking_lines.gif) | ![Advanced Lane Lines Detection](https://github.com/lucasmirachi/CarND-Advanced-Lane-Lines/blob/main/images_writeup/advanced_lane_finding.png?raw=true) |
+| --------------------------------- | --------------------------------- |
+|![Behavioral Clonning](https://github.com/lucasmirachi/CarND-Behavioral-Cloning-P4/raw/master/writeup_imgs/after_balancing.gif)| ![Classificador de Placas de Trânsito](https://github.com/lucasmirachi/CarND-Traffic-Sign-Classifier/raw/main/examples/augmented.png) Link: https://github.com/lucasmirachi/CarND-Traffic-Sign-Classifier |
+
+
 ---
 
 ## Projetos Ciência dos Dados
 
-* **Sistema de recomendação de produtos - Estudo simulação em uma loja de e-commerce:** bit.ly/3wyXBlK
-* **Análise exploratória de uma loja de varejo e-commerce com Python e Pandas:** bit.ly/3Jh03oo
-* **Estudo e análise de retenção de funcionários de uma empresa fictícia com Machine Learning:** bit.ly/3kNufxr
+* **Sistema de recomendação de produtos - Estudo simulação em uma loja de e-commerce:** https://bit.ly/3wyXBlK
+* **Análise exploratória de uma loja de varejo e-commerce com Python e Pandas:** https://bit.ly/3Jh03oo
+* **Estudo e análise de retenção de funcionários de uma empresa fictícia com Machine Learning:** https://bit.ly/3kNufxr
 * **Análise de dados de autonomia de combustível utilizando Seaborn (Google Colab):** https://bit.ly/30GTeFq
 * **Exploração e análise de dados com Streamlit (uma alternativa 100% OpenSource ao Tableau e Power BI):** https://bit.ly/2Fgbo9O
 * **Conectando um Fiat Palio na Nuvem AWS (Work in Progress!):** https://bit.ly/2I8pICg
