@@ -1,5 +1,7 @@
 ## Portfólio Lucas Mirachi
 [banner]: ./banner.png "banner"
+[ocultador]: ./imgs/ocultador.png "ocultador"
+[ocultador2]: ./imgs/ocultador2.png "ocultador2"
 
 ![][banner]
 <sub>*Buscando cada vez mais aprendizado em Visão Computacional | Inteligência Artifical | Automação | Ciência dos Dados</sub>
@@ -10,6 +12,9 @@ Este é um repositório com meu portfólio, que contempla os principais projetos
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/lucasmirachi)
+* [Medium]()
+
+---
 
 ## Projetos Visão Computacional
 #### Controle de Volume por Gestos [Link para repositório]()
@@ -28,7 +33,7 @@ Este é um repositório com meu portfólio, que contempla os principais projetos
 ![](https://github.com/lucasmirachi/hand-tracking/raw/main/images/handtracking.gif)
 
 #### Finger Counter [Link para o repositório](https://github.com/lucasmirachi/finger-counter)
-* **Objetivo**: Criei um projeto em Python3 usando a biblioteca Mediapipe para rastrear e reconhecer gestos de mãos em tempo real. O sistema captura a entrada da câmera e mapeia pontos-chave nas mãos, permitindo interações baseadas em gestos com o computador.
+* **Objetivo**: Criei um projeto em Python3 usando a biblioteca Mediapipe para contar os dedos detectados em tempo real. O sistema utiliza a câmera para capturar a mão e, por meio do rastreamento de pontos, determina o número de dedos levantados. Uma aplicação prática desse projeto poderia ser um auxiliar em salas de aula, onde o professor pode usar gestos para fazer contagens interativas durante atividades educacionais.
 * **Tecnologias**: Python3 e [Mediapipe](https://developers.google.com/mediapipe)
 ![](https://github.com/lucasmirachi/finger-counter/raw/main/finger_counter.gif)
 
@@ -46,6 +51,8 @@ Este é um repositório com meu portfólio, que contempla os principais projetos
 * **Objetivo**: Desenvolvi um programa em Python usando OpenCV para processar imagens de carros. O programa detecta automaticamente a placa do veículo e aplica um desfoque para garantir a privacidade das identificações.
 * **Tecnologias**: Python3 e OpenCV
 
+|![](ocultador) | ![](ocultador2) |
+
 
 ---
 
@@ -57,6 +64,7 @@ Este é um repositório com meu portfólio, que contempla os principais projetos
 
 
 #### Work In Progress: AWS Deep Racer
+
 ---
 
 ## Projetos Ciência dos Dados
