@@ -54,9 +54,9 @@ Este é um repositório com meu portfólio, que contempla os principais projetos
 * **Resumo**: Neste projeto, vou explorar a detecção facial usando Cascata de Haar. No entanto, é importante observar que este é um algoritmo de detecção facial, e não de reconhecimento facial. Ele analisará uma imagem e dirá "sim, é um rosto" ou "não, não há rosto nesta imagem", sem identificar a quem esse rosto pertence.
 * **Tecnologias**: Python3 e OpenCV (Haar Cascade Classifier)
 
-| <img src="https://github.com/lucasmirachi/Face-Detection/blob/main/images/don-corleone.png" width="35%" /> | ![][face1] |
----
-| <img src="https://github.com/lucasmirachi/Face-Detection/raw/main/images/brazil-selection.png" width="35%" />|![][face3] |
+| <img src="https://github.com/lucasmirachi/Face-Detection/blob/main/images/don-corleone.png" width="33%" /> | ![][face1] |
+| --------------------------------- | --------------------------------- |
+| <img src="https://github.com/lucasmirachi/Face-Detection/raw/main/images/brazil-selection.png" width="35%" />|![][face3] width="65%"|
 
 ### Detector de Cores -> 
 * **Objetivo**: Neste projeto, criei um sistema que detecta cores em tempo real usando processamento de imagem e visão computacional. Através da câmera, identificamos cores específicas, permitindo aplicações como rastreamento de objetos coloridos e automação baseada em cores.
