@@ -58,9 +58,12 @@ Este é um repositório com meu portfólio, que contempla os principais projetos
 | --------------------------------- | --------------------------------- |
 | <img src="https://github.com/lucasmirachi/Face-Detection/raw/main/images/brazil-selection.png" />|![][face3]|
 
-### **Detector de Cores** -> [Link para o repositório](https://github.com/lucasmirachi/Face-Detection)
+### **Detector de Cores** -> [Link para o repositório](https://github.com/lucasmirachi/Color-Detector)
 * **Resumo**: Neste projeto, criei um sistema que detecta cores em tempo real usando processamento de imagem e visão computacional. Através da câmera, identificamos cores específicas, permitindo aplicações como rastreamento de objetos coloridos e automação baseada em cores.
-* **Tecnologias**: Python3 e OpenCV
+* **Tecnologias**: Python3 e OpenCV.
+<p align="center">
+<img src="https://github.com/lucasmirachi/Color-Detector/blob/main/output.gif?raw=true" width="25%" />
+</p>
 
 ### **Ocultador de placas de veículos** -> [Link para o repositório](https://github.com/lucasmirachi/License-Plate-Blurring/blob/main/plate-blurring.ipynb)
 * **Resumo**: Desenvolvi um programa em Python usando OpenCV para processar imagens de carros. O programa detecta automaticamente a placa do veículo e aplica um desfoque para garantir a privacidade das identificações.
@@ -87,28 +90,42 @@ Como parte do curso de Nanodegree de Veículos Autônomos da Udacity, adquiri co
 
 ###**Link para os projetos**:
 * Projeto de identificação de Faixas de Trânsito Simples: [link](https://github.com/lucasmirachi/CarND-LaneLines-P1/blob/master/writeup.md)
+
 <p align="center">
 <img src="https://github.com/lucasmirachi/CarND-LaneLines-P1/raw/master/examples/non_blinking_lines.gif" width="50%" />
 </p>
-* Identificação Avançada de Faixas de Trânsito e angulação da estrada: [link](https://github.com/lucasmirachi/CarND-Advanced-Lane-Lines) 
+* Identificação Avançada de Faixas de Trânsito e angulação da estrada:  [link](https://github.com/lucasmirachi/CarND-Advanced-Lane-Lines) 
+
 <p align="center">
 <img src="https://github.com/lucasmirachi/CarND-Advanced-Lane-Lines/blob/main/images_writeup/advanced_lane_finding.png?raw=true)" width="50%" />
 </p>
 * Projeto de Behavioral Cloning para simulação de um veículo autônomo em pista: [link](https://github.com/lucasmirachi/CarND-Behavioral-Cloning-P4)
+
 <p align="center">
 <img src="https://github.com/lucasmirachi/CarND-Behavioral-Cloning-P4/raw/master/writeup_imgs/after_balancing.gif" width="50%" />
 </p>
+
 * Simulação de Path Planning de um veículo autônomo em uma estrada: [link](https://github.com/lucasmirachi/CarND-Path-Planning-Project/blob/main/writeup.md)
+
 <p align="center">
 <img src="https://github.com/lucasmirachi/CarND-Path-Planning-Project/raw/main/writeup_imgs/path-planning-final.gif" width="50%" />
 </p>
+
 * Classificador de placas de trânsito com Deep Learning: [link](https://github.com/lucasmirachi/CarND-Traffic-Sign-Classifier)
+
 ![Classificador de Placas de Trânsito](https://github.com/lucasmirachi/CarND-Traffic-Sign-Classifier/raw/main/examples/augmented.png)
+
 * Projeto de localização de veículo por filtros de partículas: [link](https://github.com/lucasmirachi/CarND-Kidnapped-Vehicle-Project)
+
 * Projeto de Kalman Filter Extendido: [link](https://github.com/lucasmirachi/CarND-Extended-Kalman-Filter-Project)
+
 * Projeto Final: [link](https://github.com/lucasmirachi/CarND-Capstone-Project)
 
-#### Work In Progress: AWS Deep Racer
+#### Work In Progress: [AWS Deep Racer](https://github.com/lucasmirachi/Model-Training-AWS-DeepRacer-)
+<p align="center">
+<img src="https://camo.githubusercontent.com/2b40ae356023483f7ee7139a05c77d7390236c2c0a949c9da5c55615a16c6e99/68747470733a2f2f64312e6177737374617469632e636f6d2f72323031382f722f53696c76657273746f6e652f4465657052616365725f4368726f6d655f536d616c6c5f7267622e616139623261336265653634646165326435393365626637343133333237376232383131613432652e706e67" width="20%" />
+</p>
+
 
 ---
 
