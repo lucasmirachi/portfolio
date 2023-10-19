@@ -117,6 +117,12 @@ Como parte do [curso de Nanodegree de Veículos Autônomos da Udacity](https://w
 
 ![Classificador de Placas de Trânsito](https://github.com/lucasmirachi/CarND-Traffic-Sign-Classifier/raw/main/examples/augmented.png)
 
+* Projeto de controle de veículo autônomo via Controle PID: [link](https://github.com/lucasmirachi/CarND-PID-Control-Project/blob/main/writeup.md)
+
+<p align="center">
+<img src="https://github.com/lucasmirachi/CarND-PID-Control-Project/raw/main/writeup_imgs/pid-PID.gif" width="50%" />
+</p>
+
 * Projeto de localização de veículo por filtros de partículas: [link](https://github.com/lucasmirachi/CarND-Kidnapped-Vehicle-Project)
 
 * Projeto de Kalman Filter Extendido: [link](https://github.com/lucasmirachi/CarND-Extended-Kalman-Filter-Project)
